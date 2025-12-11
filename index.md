@@ -68,7 +68,7 @@ Utilisez la fonction de recherche de votre navigateur (Ctrl+F / Cmd+F) pour trou
 - **2024-01-20** : Ajout de la page Technologies complète et du Guide d'Utilisation détaillé
 - **2024-01-20** : Amélioration du template avec instructions détaillées pour chaque section
 - **2024-01-15** : Ajout de l'exemple de documentation de technologie médicale
-- **2024-01-10** : Création de la structure de documentation
+- **2024-01-10** : Création de la structure de documentation 
 
 ---
 

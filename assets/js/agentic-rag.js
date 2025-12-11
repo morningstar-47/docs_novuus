@@ -72,7 +72,18 @@
         if (a.type === 'open_url' && a.params && a.params.url){
           const btn = document.createElement('button');
           btn.textContent = 'Ouvrir';
-          btn.onclick = ()=> window.open(a.params.url, '_blank');
+          btn.onclick = ()=> {
+            try {
+              const url = new URL(a.params.url, window.location.origin);
+              if (url.protocol === 'http:' || url.protocol === 'https:') {
+                window.open(url.href, '_blank');
+              } else {
+                alert('URL non sécurisée. Seuls http et https sont autorisés.');
+              }
+            } catch (e) {
+              alert('URL invalide.');
+            }
+          };
           div.appendChild(btn);
         }
 

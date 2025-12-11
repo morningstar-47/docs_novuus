@@ -55,7 +55,7 @@ Chaque page de documentation suit une structure standardisée comprenant :
 ## Navigation
 
 - [Technologies]({{ '/posts/technologies.html' | relative_url }}) - Liste complète des technologies documentées
-- [Template de Documentation]({{ '/_template-technologie-medicale.md' | relative_url }}) - Pour créer de nouvelles pages
+- [Template de Documentation]({{ '/template/_template-technologie-medicale.html' | relative_url }}) - Pour créer de nouvelles pages
 - [Guide d'Utilisation]({{ '/posts/guide-utilisation.html' | relative_url }}) - Instructions détaillées
 
 ## Recherche

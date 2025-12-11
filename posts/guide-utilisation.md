@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guide d'Utilisation - Documentation Technologies Médicales"
-date: 2024-01-20
+date: 2025-12-10
 categories: [guide]
 tags: [guide, documentation, utilisation]
 ---

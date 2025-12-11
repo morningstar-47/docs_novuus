@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Technologie de Diagnostic Cardiovasculaire - ECG et Tension Artérielle 24h"
-date: 2024-01-20
+date: 2025-12-10
 categories: [technologies-medicales]
 tags: [cardiovasculaire, ECG, tension-artérielle, diagnostic, connecté]
 math: false

@@ -19,6 +19,9 @@ collections:
   posts:
     output: true
     permalink: /posts/:name/
+  pages:
+    output: true
+    permalink: /:name/
 
 # Paramètres personnalisés
 author:

@@ -31,7 +31,7 @@ NOVUUS propose une gamme complète de technologies médicales connectées pour f
 
 **Statut** : Commercialisée  
 **Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-maladies-cardiovasculaires.html' | relative_url }})  
-**Site web** : [novuus.eu - Maladies cardiovasculaires](https://novuus.eu/)
+**Site web** : [novuus.eu - Maladies cardiovasculaires](https://novuus.eu/maladies-cardiovasculaires/)
 
 ---
 
@@ -50,7 +50,7 @@ NOVUUS propose une gamme complète de technologies médicales connectées pour f
 
 **Statut** : Commercialisée  
 **Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-maladies-respiratoires.html' | relative_url }})  
-**Site web** : [novuus.eu - Maladies respiratoires](https://novuus.eu/)
+**Site web** : [novuus.eu - Maladies respiratoires](https://novuus.eu/maladies-respiratoires/)
 
 ---
 
@@ -69,7 +69,7 @@ NOVUUS propose une gamme complète de technologies médicales connectées pour f
 
 **Statut** : Commercialisée  
 **Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-apnee-sommeil.html' | relative_url }})  
-**Site web** : [novuus.eu - Apnée du sommeil](https://novuus.eu/)
+**Site web** : [novuus.eu - Apnée du sommeil](https://novuus.eu/apnee-du-sommeil/)
 
 ---
 
@@ -88,7 +88,7 @@ NOVUUS propose une gamme complète de technologies médicales connectées pour f
 
 **Statut** : Commercialisée  
 **Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-echographie.html' | relative_url }})  
-**Site web** : [novuus.eu - Échographie](https://novuus.eu/)
+**Site web** : [novuus.eu - Échographie](https://novuus.eu/echographie/)
 
 ---
 
@@ -107,7 +107,7 @@ NOVUUS propose une gamme complète de technologies médicales connectées pour f
 
 **Statut** : Commercialisée  
 **Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-dermatoscopie.html' | relative_url }})  
-**Site web** : [novuus.eu - Dermatoscopie](https://novuus.eu/)
+**Site web** : [novuus.eu - Dermatoscopie](https://novuus.eu/dermatoscopie/)
 
 ---
 
@@ -124,7 +124,7 @@ NOVUUS propose une gamme complète de technologies médicales connectées pour f
 
 **Statut** : Commercialisée  
 **Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-cryotherapie.html' | relative_url }})  
-**Site web** : [novuus.eu - Cryothérapie](https://novuus.eu/)
+**Site web** : [novuus.eu - Cryothérapie](https://novuus.eu/cryotherapie/)
 
 ---
 
@@ -143,7 +143,7 @@ NOVUUS propose une gamme complète de technologies médicales connectées pour f
 
 **Statut** : Commercialisée  
 **Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-acuite-auditive.html' | relative_url }})  
-**Site web** : [novuus.eu - Acuité auditive](https://novuus.eu/)
+**Site web** : [novuus.eu - Acuité auditive](https://novuus.eu/acuite-auditive/)
 
 ---
 
@@ -162,7 +162,7 @@ NOVUUS propose une gamme complète de technologies médicales connectées pour f
 
 **Statut** : Commercialisée  
 **Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-acuite-visuelle.html' | relative_url }})  
-**Site web** : [novuus.eu - Acuité visuelle](https://novuus.eu/)
+**Site web** : [novuus.eu - Acuité visuelle](https://novuus.eu/acuite-visuelle/)
 
 ---
 

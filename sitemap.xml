@@ -17,21 +17,27 @@ layout: null
   </url>
   <url>
     <loc>{{ site.url }}{{ site.baseurl }}/posts/technologies.html</loc>
-    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <lastmod>2024-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>{{ site.url }}{{ site.baseurl }}/posts/guide-utilisation.html</loc>
-    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <lastmod>2024-01-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>{{ site.url }}{{ site.baseurl }}/posts/exemple-technologie.html</loc>
-    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <lastmod>2024-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/posts/</loc>
+    <lastmod>2024-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>{{ site.url }}{{ site.baseurl }}/posts/2024-01-20-maladies-cardiovasculaires.html</loc>

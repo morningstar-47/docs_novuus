@@ -301,7 +301,7 @@ Toutes les technologies documentées suivent une structure standardisée compren
 
 - [Page d'accueil]({{ '/' | relative_url }}) - Retour à l'accueil
 - [Template de Documentation]({{ '/_template-technologie-medicale.html' | relative_url }}) - Pour créer de nouvelles pages
-- [Guide d'Utilisation]({{ '/guide-utilisation.html' | relative_url }}) - Instructions détaillées
+- [Guide d'Utilisation]({{ '/posts/guide-utilisation.html' | relative_url }}) - Instructions détaillées
 
 ---
 

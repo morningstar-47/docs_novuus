@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://morningstar-47.github.io/docs_novuus/sitemap.xml
+

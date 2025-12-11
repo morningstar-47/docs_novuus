@@ -1,8 +1,8 @@
 # Configuration GitHub Pages / Jekyll
 title: Documentation Technologies Médicales Novuus
 description: Documentation complète des technologies médicales développées par Novuus
-baseurl: "" # Laissez vide si le repo est à la racine, sinon "/nom-du-repo"
-url: "" # Votre URL GitHub Pages (ex: "https://votre-username.github.io")
+baseurl: "/docs_novuus" # Chemin de base pour GitHub Pages (nom du repository)
+url: "https://morningstar-47.github.io" # URL de base GitHub Pages
 
 # Paramètres
 markdown: kramdown
@@ -10,9 +10,9 @@ highlighter: rouge
 # Pas de thème - nous utilisons nos propres layouts
 
 # Plugins (optionnels - GitHub Pages les supporte nativement)
-# plugins:
-#   - jekyll-feed
-#   - jekyll-sitemap
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 
 # Collections
 collections:

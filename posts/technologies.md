@@ -48,7 +48,7 @@ NOVUUS propose une gamme complète de technologies médicales connectées pour f
 - Interface simple et intuitive
 - Réduction de 85% des délais de diagnostic
 
-**Statut** : Commercialisée  
+**Statut** : Commercialisée
 **Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-maladies-respiratoires.html' | relative_url }})  
 **Site web** : [novuus.eu - Maladies respiratoires](https://novuus.eu/maladies-respiratoires/)
 
